@@ -1,7 +1,7 @@
 # Managing High-Tech Company DB
 
 - Designing, planning and executing Java application to manage high-tech company employees
-- Using relational DB – MySQL with the use of complex queries, triggers, union, join and more
+- Using relational DB – SQLite with the use of complex queries, triggers, union, join and more
 
 
 ## Project Overview
